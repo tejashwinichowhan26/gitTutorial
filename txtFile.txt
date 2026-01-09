@@ -1,8 +1,9 @@
 Tis is the sample text file, text is ok.
-<<<<<<< HEAD
+
 file updating 
 changed in master
-
 file updating
 new code change
+updating on remote repoo
+
 
