@@ -1,1 +1,2 @@
-T)his is the sample text file, text is ok
+Tis is the sample text file, text is ok.
+file updating
